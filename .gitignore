@@ -1,0 +1,7 @@
+# virtual machine images
+*.img
+*.vhd
+*.iso
+
+# zip archives
+*.zip
